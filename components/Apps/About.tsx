@@ -56,14 +56,14 @@ const About: React.FC = () => {
             <div className="absolute inset-0 bg-cyber-primary/20 blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
             <div className="relative glass-card p-2 rounded-xl tech-border overflow-hidden bg-black/40">
               <img 
-                src="assets/pic12.jpg" 
+                src="assets/pic12.png" 
                 alt="Issam Beniysa" 
                 className="w-full h-auto rounded-lg filter grayscale group-hover:grayscale-0 transition-all duration-500 object-cover aspect-square"
                 loading="lazy"
               />
               <div className="mt-4 text-center pb-2">
                 <h2 className="text-xl font-bold text-white">Issam Beniysa</h2>
-                <p className="text-cyber-primary text-sm font-mono">Cybersecurity Analyst</p>
+                <p className="text-cyber-primary text-sm font-mono">Hack Yourself, Before They Do.</p>
               </div>
             </div>
           </div>
