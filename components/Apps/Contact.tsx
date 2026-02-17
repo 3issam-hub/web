@@ -127,7 +127,7 @@ const Contact: React.FC = () => {
             <div className="p-6 border-l-2 border-cyber-primary bg-cyber-primary/5">
                 <h3 className="text-xl font-bold text-white mb-2">Open For Opportunities</h3>
                 <p className="text-cyber-text leading-relaxed">
-                    Currently available for freelance projects and full-time positions in Cybersecurity Analysis, Network Administration, and IT Support.
+                    Currently available for freelance projects and full-time positions in Cybersecurity, Network Administration, System Administration, and IT Support.
                 </p>
             </div>
 
