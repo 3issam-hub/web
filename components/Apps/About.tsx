@@ -45,7 +45,7 @@ const About: React.FC = () => {
             <div className="glass-card p-4 rounded-lg border border-cyber-card hover:border-cyber-primary/50 transition-colors">
               <Bug className="w-8 h-8 text-cyber-primary mb-3" />
               <h4 className="font-bold text-white mb-1">Bug Hunting</h4>
-              <p className="text-xs text-cyber-text">Vulnerability discovery and zero-day research.</p>
+              <p className="text-xs text-cyber-text">Vulnerability discovery and research.</p>
             </div>
           </div>
         </div>
